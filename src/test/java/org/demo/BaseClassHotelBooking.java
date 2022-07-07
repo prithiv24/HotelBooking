@@ -28,6 +28,7 @@ import org.openqa.selenium.support.ui.Select;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClassHotelBooking {
+	Hello
 
 	public static WebDriver driver;
 	public static Select select;
