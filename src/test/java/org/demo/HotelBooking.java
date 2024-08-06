@@ -25,6 +25,7 @@ public class HotelBooking extends BaseClassHotelBooking{
 		implicitWait();
 		dateAndTime();
 		System.out.println("Browser launch time:");
+		System.out.println("Browser launch time:333");
 	}
 	@Test
 	public void tc1() {
